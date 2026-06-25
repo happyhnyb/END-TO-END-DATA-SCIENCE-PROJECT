@@ -1,0 +1,16 @@
+{
+  "n_rows": 78,
+  "n_features": 20,
+  "window": "2006-04-01..2025-07-01",
+  "test_window": "2020-01-01..2025-07-01",
+  "n_test": 23,
+  "price_naive_MAE": 2.743478260869564,
+  "price_best_model": "XGBoost",
+  "price_best_MAE": 2.211388695758324,
+  "price_best_dir_acc": 0.6956521739130435,
+  "price_dir_clf_best": "Naive (majority)",
+  "price_dir_clf_acc": 0.6956521739130435,
+  "price_dir_naive_acc": 0.6956521739130435,
+  "rent_naive_MAE": 0.5086956521739132,
+  "rent_best_MAE": 0.14919341606048667
+}
